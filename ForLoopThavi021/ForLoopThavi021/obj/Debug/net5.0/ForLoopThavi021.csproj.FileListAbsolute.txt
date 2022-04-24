@@ -1,0 +1,16 @@
+C:\Users\Thaveshan Naidoo\source\repos\ForLoopThavi021\ForLoopThavi021\bin\Debug\net5.0\ForLoopThavi021.exe
+C:\Users\Thaveshan Naidoo\source\repos\ForLoopThavi021\ForLoopThavi021\bin\Debug\net5.0\ForLoopThavi021.deps.json
+C:\Users\Thaveshan Naidoo\source\repos\ForLoopThavi021\ForLoopThavi021\bin\Debug\net5.0\ForLoopThavi021.runtimeconfig.json
+C:\Users\Thaveshan Naidoo\source\repos\ForLoopThavi021\ForLoopThavi021\bin\Debug\net5.0\ForLoopThavi021.runtimeconfig.dev.json
+C:\Users\Thaveshan Naidoo\source\repos\ForLoopThavi021\ForLoopThavi021\bin\Debug\net5.0\ForLoopThavi021.dll
+C:\Users\Thaveshan Naidoo\source\repos\ForLoopThavi021\ForLoopThavi021\bin\Debug\net5.0\ref\ForLoopThavi021.dll
+C:\Users\Thaveshan Naidoo\source\repos\ForLoopThavi021\ForLoopThavi021\bin\Debug\net5.0\ForLoopThavi021.pdb
+C:\Users\Thaveshan Naidoo\source\repos\ForLoopThavi021\ForLoopThavi021\obj\Debug\net5.0\ForLoopThavi021.csproj.AssemblyReference.cache
+C:\Users\Thaveshan Naidoo\source\repos\ForLoopThavi021\ForLoopThavi021\obj\Debug\net5.0\ForLoopThavi021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thaveshan Naidoo\source\repos\ForLoopThavi021\ForLoopThavi021\obj\Debug\net5.0\ForLoopThavi021.AssemblyInfoInputs.cache
+C:\Users\Thaveshan Naidoo\source\repos\ForLoopThavi021\ForLoopThavi021\obj\Debug\net5.0\ForLoopThavi021.AssemblyInfo.cs
+C:\Users\Thaveshan Naidoo\source\repos\ForLoopThavi021\ForLoopThavi021\obj\Debug\net5.0\ForLoopThavi021.csproj.CoreCompileInputs.cache
+C:\Users\Thaveshan Naidoo\source\repos\ForLoopThavi021\ForLoopThavi021\obj\Debug\net5.0\ForLoopThavi021.dll
+C:\Users\Thaveshan Naidoo\source\repos\ForLoopThavi021\ForLoopThavi021\obj\Debug\net5.0\ref\ForLoopThavi021.dll
+C:\Users\Thaveshan Naidoo\source\repos\ForLoopThavi021\ForLoopThavi021\obj\Debug\net5.0\ForLoopThavi021.pdb
+C:\Users\Thaveshan Naidoo\source\repos\ForLoopThavi021\ForLoopThavi021\obj\Debug\net5.0\ForLoopThavi021.genruntimeconfig.cache
